@@ -3,9 +3,7 @@
   <h1>Anderson Toledo Martins Moreira</h1>
   <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a>
 
-  ```
-  Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress), and I started learning about Python and Data Science.
-  ```
+> Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress), and I started learning about Python and Data Science.
 </div>
 <br >
 <!-- References for Create budgets :: https://shields.io/category/build -->
