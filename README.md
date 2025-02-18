@@ -27,7 +27,7 @@
 <br >
 
 ## Description
-This is a project to show my skills with Javascript Vanilla consuming a API from Movies.
+This is a project to show my skills with Javascript Vanilla consuming a API from Movies. See the [DEMO](https://flixx-movies-javascript.vercel.app/)
 
 ## Screens Layout
 <div align="center">
