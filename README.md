@@ -13,6 +13,12 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
 This is a project to show my skills with Javascript Vanilla consuming a API from Movies. See the [DEMO](https://flixx-movies-javascript.vercel.app/).
